@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" alt="Samir Orujov" width="180" />
+  <img src="profile.jpg" alt="Samir Orujov" width="180" />
 </p>
 
 <h1 align="center">Hi there, I'm Samir Orujov 👋</h1>
