@@ -1,4 +1,6 @@
-<!-- GitHub Profile README for Samir Orujov -->
+<p align="center">
+  <img src="profile.png" alt="Samir Orujov" width="180" />
+</p>
 
 <h1 align="center">Hi there, I'm Samir Orujov 👋</h1>
 <p align="center">Assistant Professor | Data Scientist | AI & Time Series Enthusiast</p>
@@ -25,10 +27,10 @@
   <img src="https://skillicons.dev/icons?i=python,r,matlab,sql,latex,stata,pyspark,git,vscode" />
 </p>
 
-- **Programming:** Python, R, Matlab, SQL, Stata, PySpark
-- **Tools:** Spyder, VSCode, EViews, LaTeX
-- **Data Science:** Time Series, Econometrics, Machine Learning, Panel Data, Financial Modelling
-- **Languages:** Azeri (Native), Turkish (Native), English (Fluent), Russian (Fluent), Farsi/Czech/French (Beginner)
+- **Programming:** Python, R, Matlab, SQL, Stata, PySpark  
+- **Tools:** Spyder, VSCode, EViews, LaTeX  
+- **Data Science:** Time Series, Econometrics, Machine Learning, Panel Data, Financial Modelling  
+- **Languages:** Azeri (Native), Turkish (Native), English (Fluent), Russian (Fluent), Farsi/Czech/French (Beginner)  
 
 ---
 
@@ -71,17 +73,17 @@
 
 ### 📝 Selected Publications
 
-- **VS-LTGARCHX:** A Flexible Variable Selection in Log-TGARCHX Models, *Journal of Time Series Econometrics*, 2024
-- Econometric assessment of the effect of SMEs on economic development, *Information and Innovations Journal*, 2019
+- **VS-LTGARCHX:** A Flexible Variable Selection in Log-TGARCHX Models, *Journal of Time Series Econometrics*, 2024  
+- Econometric assessment of the effect of SMEs on economic development, *Information and Innovations Journal*, 2019  
 - [Full list in CV](https://github.com/salahaddiniayyubi/CIS_Internet/raw/main/static/CV.pdf)
 
 ---
 
 ### 🚀 Featured Projects
 
-- [CIS_Internet](https://github.com/salahaddiniayyubi/CIS_Internet): Time series and internet data analysis tools
-- [Telegram Internet Speed Bot](#): Real-time speed analytics, PDF automation
-- [AI-powered CRM System](#): Government-citizen engagement (details upon request)
+- [CIS_Internet](https://github.com/salahaddiniayyubi/CIS_Internet): Time series and internet data analysis tools  
+- [Telegram Internet Speed Bot](#): Real-time speed analytics, PDF automation  
+- [AI-powered CRM System](#): Government-citizen engagement (details upon request)  
 
 ---
 
@@ -96,7 +98,7 @@
 
 ### 🌎 Contact
 
-- **Email:** [sorujov@ada.edu.az](mailto:sorujov@ada.edu.az)
+- **Email:** [sorujov@ada.edu.az](mailto:sorujov@ada.edu.az)  
 - **Location:** Baku, Azerbaijan
 
 ---
