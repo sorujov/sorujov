@@ -24,8 +24,9 @@
 ### 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,matlab,sql,latex,stata,pyspark,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,r,matlab,mysql,latex,git,vscode" />
 </p>
+
 
 - **Programming:** Python, R, Matlab, SQL, Stata, PySpark  
 - **Tools:** Spyder, VSCode, EViews, LaTeX  
