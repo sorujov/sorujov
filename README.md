@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="profile.jpg" alt="Samir Orujov" width="180" />
-</p>
-
 <h1 align="center">Hi there, I'm Samir Orujov 👋</h1>
 <p align="center">Assistant Professor | Data Scientist | AI & Time Series Enthusiast</p>
 <p align="center">
