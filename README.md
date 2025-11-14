@@ -3,7 +3,9 @@
 <p align="center">
   <a href="mailto:sorujov@ada.edu.az"><img src="https://img.shields.io/badge/Email-sorujov@ada.edu.az-blue?style=flat&logo=gmail" /></a>
   <a href="https://github.com/salahaddiniayyubi?tab=repositories"><img src="https://img.shields.io/github/followers/salahaddiniayyubi?label=Follow&style=social" /></a>
-  <!-- Add your LinkedIn, Google Scholar or ORCID here if available -->
+<a href="https://www.linkedin.com/in/samir-orujov-phd-231765288/" target="_blank" rel="noopener noreferrer">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square">
+</a>
 </p>
 
 ---
